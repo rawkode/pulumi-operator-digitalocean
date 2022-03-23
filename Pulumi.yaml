@@ -1,0 +1,4 @@
+name: drift
+runtime: nodejs
+description: A minimal Kubernetes TypeScript Pulumi program
+main: src/index.ts

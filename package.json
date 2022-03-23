@@ -1,0 +1,10 @@
+{
+    "name": "drift",
+    "devDependencies": {
+        "@types/node": "^14"
+    },
+    "dependencies": {
+        "@pulumi/pulumi": "^3.0.0",
+        "@pulumi/digitalocean": "^4.11.1"
+    }
+}

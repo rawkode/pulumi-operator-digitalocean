@@ -1,0 +1,8 @@
+encryptionsalt: v1:KiR4WeAdfw0=:v1:1Bpl7ou9D1WCoc75:4hXP0aVfJNSJhoWUxh3Uz1wT0Y8jqg==
+config:
+  digitalocean:spaces_access_id:
+    secure: v1:mJcAo8tKNAJYV9Nt:IaMofHNEmhSQYILBoaE4rSDmKx89P3COlWuiQxpH/BEeanbE
+  digitalocean:spaces_secret_key:
+    secure: v1:csCGHBLjQ3t6lghg:5IiStWuGp2nbbWLA05yaVGnsyMiCyiffaiX1YnYfZq27LFZpCPDaZrs3g51EVifm2VOwU+lGq7hOuRA=
+  digitalocean:token:
+    secure: v1:w1ovnRSO0mvRqTPB:4cNETAMPqzLP7SaAjjUcXC+vRwTvmGI+Nwzk2i+x/0JFqbJdxwOpFCbmlR0VhrhJ51aj7/xmrr1nPtocn4CburAt3RtLX4Uy/hu7vGFqLoYXbqKUNYoy
